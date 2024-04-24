@@ -1,2 +1,2 @@
 print("Deep")
-print(1+6)
+print(6)
